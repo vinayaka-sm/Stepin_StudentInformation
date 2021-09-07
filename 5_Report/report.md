@@ -83,6 +83,7 @@ Enhance the efficiency of schools in meeting their requirements and capabilities
 # Design 
 ## High level design
 Architecture Design
+
 ![IMG2](https://user-images.githubusercontent.com/57322769/132372986-efcc2aa9-5415-4163-979e-ccf98772163c.jpg)
 
 ## Use case diagram
