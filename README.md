@@ -7,3 +7,5 @@
 ![Code Grade](https://www.code-inspector.com/project/27775/status/svg)
 
 [![Unit Testing - Unity](https://github.com/vinayaka-sm/Stepin_StudentInformation/actions/workflows/unity.yml/badge.svg)](https://github.com/vinayaka-sm/Stepin_StudentInformation/actions/workflows/unity.yml)
+
+[![C/C++ CI](https://github.com/vinayaka-sm/Stepin_StudentInformation/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/vinayaka-sm/Stepin_StudentInformation/actions/workflows/c-cpp.yml)
