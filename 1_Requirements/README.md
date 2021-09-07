@@ -3,11 +3,10 @@
  The primary purpose of Student information system is to simplify teachers and staff work, by automating all student related operations and streamlining their routine tasks.
 
 ## Research 
-The primary functionality of Student Management Software is to manage student information data efficiently. 
+The primary functionality of Student Information system is to manage student information data efficiently. 
 
 The software helps the schools to reward students with a merit system and promote them to the next standard.
 
-One major concern on exams is it should be beneficially conducted to ensure that the deserving and right students to gain maximum rewards to their academic performance and merit-based results to their hardworking.
 
 ## Key Features of Student Information Management
 1. Add/Delete the Details of the Students
@@ -50,7 +49,7 @@ Enhance the efficiency of schools in meeting their requirements and capabilities
 |:----|:----------------------------------------------|:---------|:----------|
 |HR01	|User should be able to add a new student record| Technical|Implemented|
 |HR02	|User should be able to update a student record	| Technical|Implemented|
-|HR03	|User should be able to delete a patient record	| Technical|Implemented|
+|HR03	|User should be able to delete a student record	| Technical|Implemented|
 |HR04	|User should be able to read data from a file	  |Technical|Implemented|
 
 ## Low level requirements
