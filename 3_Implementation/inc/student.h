@@ -6,10 +6,6 @@
 #include <string.h>
 
 #define MAX_NAME_LEN 50
-/**
- * @brief Sturcute to store the student information
- * 
- */
 
 typedef struct {
     char name[MAX_NAME_LEN];
@@ -18,10 +14,6 @@ typedef struct {
     float days;
     float attend;
 }Student;
-/**
- * @brief Sturcture Node to traverse across each student 
- * 
- */
 
 struct Node {
     Student student;
