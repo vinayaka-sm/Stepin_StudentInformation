@@ -5,3 +5,5 @@
 ![Code Quality Score](https://www.code-inspector.com/project/27775/score/svg)
 
 ![Code Grade](https://www.code-inspector.com/project/27775/status/svg)
+
+[![Unit Testing - Unity](https://github.com/vinayaka-sm/Stepin_StudentInformation/actions/workflows/unity.yml/badge.svg)](https://github.com/vinayaka-sm/Stepin_StudentInformation/actions/workflows/unity.yml)
