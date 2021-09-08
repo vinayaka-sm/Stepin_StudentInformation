@@ -1,5 +1,3 @@
-# LTTS-Mini-Project
-L&amp;T Technology Services Mini-Project (STEPIN_2021)
 
 # Student information System
 ![student-information-system](https://user-images.githubusercontent.com/57322769/132154277-d35bd41f-3d64-4999-a843-4ef54d92d178.jpg)
