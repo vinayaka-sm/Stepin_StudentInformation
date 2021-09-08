@@ -26,7 +26,7 @@ A Simple Software for Student information System that can perform the following 
  ## Introduction
  The primary purpose of school information system Software is to simplify teachers and staff work, by automating all school exam related operations and streamlining their routine tasks.
 
-## Key Features of Student Academics Examination Management
+## Key Features
 1. Add/Delete the Details of the Students
 2. Attendance Monitoring of the students
 3. Set/Edit Eligibility criteria for exams
