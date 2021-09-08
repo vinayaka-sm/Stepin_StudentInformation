@@ -11,3 +11,5 @@
 [![C/C++ CI](https://github.com/vinayaka-sm/Stepin_StudentInformation/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/vinayaka-sm/Stepin_StudentInformation/actions/workflows/c-cpp.yml)
 
 [![Contribution Check - Git Inspector](https://github.com/vinayaka-sm/Stepin_StudentInformation/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/vinayaka-sm/Stepin_StudentInformation/actions/workflows/gitinspector.yml)
+
+[![CodeQuality Dynamic Code Analysis Valgrind](https://github.com/vinayaka-sm/Stepin_StudentInformation/actions/workflows/dynamic-code-quality.yml/badge.svg)](https://github.com/vinayaka-sm/Stepin_StudentInformation/actions/workflows/dynamic-code-quality.yml)
