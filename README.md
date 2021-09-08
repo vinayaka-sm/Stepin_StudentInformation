@@ -9,3 +9,5 @@
 [![Unit Testing - Unity](https://github.com/vinayaka-sm/Stepin_StudentInformation/actions/workflows/unity.yml/badge.svg)](https://github.com/vinayaka-sm/Stepin_StudentInformation/actions/workflows/unity.yml)
 
 [![C/C++ CI](https://github.com/vinayaka-sm/Stepin_StudentInformation/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/vinayaka-sm/Stepin_StudentInformation/actions/workflows/c-cpp.yml)
+
+[![Contribution Check - Git Inspector](https://github.com/vinayaka-sm/Stepin_StudentInformation/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/vinayaka-sm/Stepin_StudentInformation/actions/workflows/gitinspector.yml)
